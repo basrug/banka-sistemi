@@ -1,3 +1,4 @@
+
 # Banka Sistemi Projesi
 
 Bu proje, Python ve nesne yönelimli programlama (OOP) kavramları kullanılarak geliştirilmiş konsol tabanlı bir bankacılık uygulamasıdır. Öğrenciler için final projesi gereksinimlerine göre tasarlanmıştır.
@@ -41,3 +42,6 @@ Sistemin doğru çalıştığını denetlemek için yazılmış temel birim test
 ```bash
 python -m unittest tests/test_bank_system.py
 ```
+
+# banka-sistemi
+
