@@ -1,6 +1,31 @@
+# Python önbellek dosyaları
 __pycache__/
 *.py[cod]
 *$py.class
+
+# IDE ve Editör klasörleri
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# Log dosyaları
 *.log
+
+# Sanal Ortam (Virtual Environment)
+venv/
+.venv/
+env/
+ENV/
+
+# Çevresel Değişkenler ve Gizli Dosyalar
+.env
+.env.local
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Kullanıcıya Özel Ayarlar
+.python-version
